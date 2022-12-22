@@ -20,19 +20,3 @@ body {
   aside {
     background: #eee;
   }
-  h4 {
-    color: red;
-  }
-  #navigation-title {
-    color: red;
-  }
-  li {
-    text-decoration: underline;
-  }
-  .menu-item {
-    text-decoration: underline;
-  }
-  .selected {
-    font-weight: bold;
-    color: #009999;
-  }
